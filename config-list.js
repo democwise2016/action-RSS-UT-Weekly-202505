@@ -116,36 +116,6 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  {
-    title: '35線上賞屋',
-    feedID: '35visitchannel',
-    homepageURL: 'https://www.youtube.com/channel/UCnWB4yjKnm6AeW-pj4E3dQw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '超認真少年Imserious',
-    feedID: 'imseriou',
-    homepageURL: 'https://www.youtube.com/channel/UCckzc03-ycrpB1XIUfRhpnw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '山小日子',
-    feedID: 'Samsdailyproduction',
-    homepageURL: 'https://www.youtube.com/channel/UCcFEKnC141Fg-YSltWOmDaA',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '钟文泽',
-    feedID: 'zhongwenze',
-    homepageURL: 'https://www.youtube.com/channel/UCT1YrR_CLpwosODYagzhm7Q',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  {
-    title: '六指淵 Huber',
-    feedID: 'huber0203',
-    homepageURL: 'https://www.youtube.com/channel/UC7ia-A8gma8qcdC6GDcjwsQ',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
   
 ]
 
