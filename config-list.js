@@ -21,19 +21,6 @@ let feedList = [
     ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
   },
   {
-    title: '萊斯 新Game報',
-    feedID: 'LiceMoo-GameNews',
-    homepageURL: 'https://www.youtube.com/channel/UC9WiXJEyHMGRqL-__3FIBEw',
-    thumbnailBorderColor: true,
-    itemFilters: [
-      ItemFiltersPreset.between3minTo30Min,
-      (item) => { return (item.title.indexOf('《新Game報') > -1) }
-    ],
-    options: {
-      maxItems: 3
-    }
-  },
-  {
     title: '大閒者 偷閒加油站',
     feedID: 'Idlers-GameNews',
     homepageURL: 'https://www.youtube.com/channel/UCU6nhA37pbvzw-JXhAB87Mg',
