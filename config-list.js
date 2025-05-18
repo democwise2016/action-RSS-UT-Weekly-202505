@@ -103,7 +103,13 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-  
+  {
+    title: '瘋狂老爹',
+    feedID: 'kenzx1990',
+    homepageURL: 'https://www.youtube.com/channel/UCO0S5GZgbF5NVZ3IsKLZ2bA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  // 滿了！！！
 ]
 
 // 
