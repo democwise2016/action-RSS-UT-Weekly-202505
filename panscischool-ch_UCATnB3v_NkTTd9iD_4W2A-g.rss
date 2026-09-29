@@ -29,5 +29,37 @@
       <itunes:name><![CDATA[泛科學院[YT+]]]></itunes:name>
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/pR8GZu7Ho0bfVHF1NJYL41vku7JeDT5nP9esVcoNcRsoUEZIsd4FKm0QnJgSjg_iGNee-FRr-6A=s88-c-k-c0x00ffffff-no-rj"/>
-</channel>
+<item>
+      <title><![CDATA[這集AI絕對做不出來啦！盜國威聲音的人是小狗！不要逼我狗急跳牆｜泛科學院]]></title>
+      <link>https://www.youtube.com/watch?v=6hl9kTfKjNM</link>
+      <itunes:title><![CDATA[這集AI絕對做不出來啦！盜國威聲音的人是小狗！不要逼我狗急跳牆｜泛科學院]]></itunes:title>
+      <itunes:author><![CDATA[泛科學院]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/6hl9kTfKjNM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=6hl9kTfKjNM">https://www.youtube.com/watch?v=6hl9kTfKjNM</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解當前 <strong>AI 聲音複製技術</strong>（如 ElevenLabs）的實務操作與生成流程。</li><li>剖析合成語音常帶有特定腔調（如中國腔）背後的大語言模型與訓練數據原因。</li><li>探討知識型創作者面對個人 <strong>聲音版權</strong> 與品牌權益遭未授權盜用時的困境與反制態度。</li></ul><hr /><h1>摘要</h1><h2>聲音遭盜用的危機與品牌維護</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_15.jpg" /></p> 作者因頻道影片頻繁被觀眾質疑使用 AI 語音，且發現市面上出現大量未經授權、擅自擷取並複製其聲音特徵來獲取高流量的頻道，感到相當無奈與不滿。作者強調個人聲音與品牌資產不容侵犯，決定攜手團隊深入釐清 AI 聲音複製背後的技術原理與運作機制。</p><h2>實測 ElevenLabs：極速複製聲音模型</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_135.jpg" /></p> 為了評估聲音複製的難易度，團隊實際測試知名 AI 語音合成平台 <strong>ElevenLabs</strong>。測試結果顯示，僅需要提供約一分鐘作者講話的音訊檔案，系統就能在極短時間內建立出高度還原的專屬聲音模型，並能根據輸入的文本自動生成語音。</p><h2>AI 聲音複製的技術原理拆解</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_210.jpg" /></p> 團隊技術人員進一步解析語音複製的三種核心架構，分別為零樣本學習（<strong>Zero-shot</strong>）、微調（<strong>Fine-tuning</strong>）以及結合基底模型與小型特徵參數的 <strong>LoRA</strong> 技術。現代 AI 語音生成主要依賴預先訓練好的基礎大模型（Base Model）來掌握語言發音，再將個體聲音特徵疊加上去，從而大幅節省重新訓練模型的成本。</p><h2>AI 口音來源與對盜用者的嚴正警告</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_300.jpg" /></p> 針對合成語音常帶有中國腔調的現象，技術人員解釋這是因為基底模型的訓練資料庫中含有較高比例的簡體中文語料所致。最後，作者藉由這次解密 AI 語音複製技術的過程，向未經授權盜用其聲音的第三方頻道發出警告，呼籲大眾尊重創作者的聲音版權與勞動成果。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=6hl9kTfKjNM">https://www.youtube.com/watch?v=6hl9kTfKjNM</a></p><p>傳譯寶 App 是專為商務人士打造的 全能會議助手，支援 iPhone、iPad、Mac。能將語音 即時轉文字、自動生成 逐字稿 與 重點筆記，讓每場會議都能快速整理、輕鬆回顧。無論是訪談紀錄、跨部門協作、專案溝通，傳譯寶都能幫你 告別手動筆記、專注在對話本身。</p><p></p><p>是專業人士工作流程中最實用的 AI 工具之一。</p><p>下載連結：<a href="https://app.tabloai.app/tw?ref=panscischool">https://app.tabloai.app/tw?ref=panscischool</a></p><p></p><p>歡迎加入頻道會員 ➤ <a href="https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join">https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</a></p><p></p><p>主編：柯雅芸</p><p>演員：鄭國威、曹盛威、柯雅芸</p><p>腳本：柯雅芸</p><p>攝影：莊喬安</p><p>剪接：蔡妍怜</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/6hl9kTfKjNM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=6hl9kTfKjNM">https://www.youtube.com/watch?v=6hl9kTfKjNM</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解當前 <strong>AI 聲音複製技術</strong>（如 ElevenLabs）的實務操作與生成流程。</li><li>剖析合成語音常帶有特定腔調（如中國腔）背後的大語言模型與訓練數據原因。</li><li>探討知識型創作者面對個人 <strong>聲音版權</strong> 與品牌權益遭未授權盜用時的困境與反制態度。</li></ul><hr /><h1>摘要</h1><h2>聲音遭盜用的危機與品牌維護</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_15.jpg" /></p> 作者因頻道影片頻繁被觀眾質疑使用 AI 語音，且發現市面上出現大量未經授權、擅自擷取並複製其聲音特徵來獲取高流量的頻道，感到相當無奈與不滿。作者強調個人聲音與品牌資產不容侵犯，決定攜手團隊深入釐清 AI 聲音複製背後的技術原理與運作機制。</p><h2>實測 ElevenLabs：極速複製聲音模型</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_135.jpg" /></p> 為了評估聲音複製的難易度，團隊實際測試知名 AI 語音合成平台 <strong>ElevenLabs</strong>。測試結果顯示，僅需要提供約一分鐘作者講話的音訊檔案，系統就能在極短時間內建立出高度還原的專屬聲音模型，並能根據輸入的文本自動生成語音。</p><h2>AI 聲音複製的技術原理拆解</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_210.jpg" /></p> 團隊技術人員進一步解析語音複製的三種核心架構，分別為零樣本學習（<strong>Zero-shot</strong>）、微調（<strong>Fine-tuning</strong>）以及結合基底模型與小型特徵參數的 <strong>LoRA</strong> 技術。現代 AI 語音生成主要依賴預先訓練好的基礎大模型（Base Model）來掌握語言發音，再將個體聲音特徵疊加上去，從而大幅節省重新訓練模型的成本。</p><h2>AI 口音來源與對盜用者的嚴正警告</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_300.jpg" /></p> 針對合成語音常帶有中國腔調的現象，技術人員解釋這是因為基底模型的訓練資料庫中含有較高比例的簡體中文語料所致。最後，作者藉由這次解密 AI 語音複製技術的過程，向未經授權盜用其聲音的第三方頻道發出警告，呼籲大眾尊重創作者的聲音版權與勞動成果。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=6hl9kTfKjNM">https://www.youtube.com/watch?v=6hl9kTfKjNM</a></p><p>傳譯寶 App 是專為商務人士打造的 全能會議助手，支援 iPhone、iPad、Mac。能將語音 即時轉文字、自動生成 逐字稿 與 重點筆記，讓每場會議都能快速整理、輕鬆回顧。無論是訪談紀錄、跨部門協作、專案溝通，傳譯寶都能幫你 告別手動筆記、專注在對話本身。</p><p></p><p>是專業人士工作流程中最實用的 AI 工具之一。</p><p>下載連結：<a href="https://app.tabloai.app/tw?ref=panscischool">https://app.tabloai.app/tw?ref=panscischool</a></p><p></p><p>歡迎加入頻道會員 ➤ <a href="https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join">https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</a></p><p></p><p>主編：柯雅芸</p><p>演員：鄭國威、曹盛威、柯雅芸</p><p>腳本：柯雅芸</p><p>攝影：莊喬安</p><p>剪接：蔡妍怜</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/6hl9kTfKjNM/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=6hl9kTfKjNM">https://www.youtube.com/watch?v=6hl9kTfKjNM</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解當前 <strong>AI 聲音複製技術</strong>（如 ElevenLabs）的實務操作與生成流程。</li><li>剖析合成語音常帶有特定腔調（如中國腔）背後的大語言模型與訓練數據原因。</li><li>探討知識型創作者面對個人 <strong>聲音版權</strong> 與品牌權益遭未授權盜用時的困境與反制態度。</li></ul><hr /><h1>摘要</h1><h2>聲音遭盜用的危機與品牌維護</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_15.jpg" /></p> 作者因頻道影片頻繁被觀眾質疑使用 AI 語音，且發現市面上出現大量未經授權、擅自擷取並複製其聲音特徵來獲取高流量的頻道，感到相當無奈與不滿。作者強調個人聲音與品牌資產不容侵犯，決定攜手團隊深入釐清 AI 聲音複製背後的技術原理與運作機制。</p><h2>實測 ElevenLabs：極速複製聲音模型</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_135.jpg" /></p> 為了評估聲音複製的難易度，團隊實際測試知名 AI 語音合成平台 <strong>ElevenLabs</strong>。測試結果顯示，僅需要提供約一分鐘作者講話的音訊檔案，系統就能在極短時間內建立出高度還原的專屬聲音模型，並能根據輸入的文本自動生成語音。</p><h2>AI 聲音複製的技術原理拆解</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_210.jpg" /></p> 團隊技術人員進一步解析語音複製的三種核心架構，分別為零樣本學習（<strong>Zero-shot</strong>）、微調（<strong>Fine-tuning</strong>）以及結合基底模型與小型特徵參數的 <strong>LoRA</strong> 技術。現代 AI 語音生成主要依賴預先訓練好的基礎大模型（Base Model）來掌握語言發音，再將個體聲音特徵疊加上去，從而大幅節省重新訓練模型的成本。</p><h2>AI 口音來源與對盜用者的嚴正警告</h2><p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202505/file-cache/6hl9kTfKjNM_300.jpg" /></p> 針對合成語音常帶有中國腔調的現象，技術人員解釋這是因為基底模型的訓練資料庫中含有較高比例的簡體中文語料所致。最後，作者藉由這次解密 AI 語音複製技術的過程，向未經授權盜用其聲音的第三方頻道發出警告，呼籲大眾尊重創作者的聲音版權與勞動成果。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=6hl9kTfKjNM">https://www.youtube.com/watch?v=6hl9kTfKjNM</a></p><p>傳譯寶 App 是專為商務人士打造的 全能會議助手，支援 iPhone、iPad、Mac。能將語音 即時轉文字、自動生成 逐字稿 與 重點筆記，讓每場會議都能快速整理、輕鬆回顧。無論是訪談紀錄、跨部門協作、專案溝通，傳譯寶都能幫你 告別手動筆記、專注在對話本身。</p><p></p><p>是專業人士工作流程中最實用的 AI 工具之一。</p><p>下載連結：<a href="https://app.tabloai.app/tw?ref=panscischool">https://app.tabloai.app/tw?ref=panscischool</a></p><p></p><p>歡迎加入頻道會員 ➤ <a href="https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join">https://www.youtube.com/channel/UCATnB3v_NkTTd9iD_4W2A-g/join</a></p><p></p><p>主編：柯雅芸</p><p>演員：鄭國威、曹盛威、柯雅芸</p><p>腳本：柯雅芸</p><p>攝影：莊喬安</p><p>剪接：蔡妍怜</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/6hl9kTfKjNM/hqdefault.jpg"/>
+      <pubDate>2026-09-24T11:00:39.000Z</pubDate>
+    </item></channel>
 </rss>
